@@ -1,7 +1,7 @@
 //Operators in JS
 
 /* 
-In javascript an operator is a special type of symbol used to perform operation on Operationd
+In javascript an operator is a special type of symbol used to perform operation on Operands
 eg. values and variables
 eg: 2 + 3 = 5
 

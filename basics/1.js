@@ -73,6 +73,7 @@ Primitive Data Types:
 4. null ==> denotes a null like empty value eg: let a = null;
 5. undefined = a data type as there variables is not defined yet ex: let a;
 */
+// String DataTypes
 // let firstName = "Ishwari";
 // let lastName = "Jamodkar";
 // let fullName = `Ishwari Jamodkar`
